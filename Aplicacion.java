@@ -1,6 +1,6 @@
 package pruebaproyecto;
 
-public class Aplicacion {
+public class Juego3APP {
 
 	public static void main(String[] args) {
 
